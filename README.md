@@ -9,3 +9,4 @@ Schematic Visio Stencils
 - Resistor
 - TSOP
 - 2N2222
+- 2-leg diod
